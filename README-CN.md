@@ -29,3 +29,5 @@
 
 #### 将excel语言包文件转成Android多个目录下的strings.xml文件
 ./xls2android.sh
+
+#### 项目工程必须和整个脚本工程在一个目录内,同时需要修改ios2xls.sh,xls2ios.sh内的国际化文件目录.
